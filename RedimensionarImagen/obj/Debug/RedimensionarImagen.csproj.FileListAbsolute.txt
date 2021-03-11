@@ -1,0 +1,10 @@
+C:\Users\KEVIN\source\repos\RedimensionarImagen\RedimensionarImagen\bin\Debug\RedimensionarImagen.exe.config
+C:\Users\KEVIN\source\repos\RedimensionarImagen\RedimensionarImagen\bin\Debug\RedimensionarImagen.exe
+C:\Users\KEVIN\source\repos\RedimensionarImagen\RedimensionarImagen\bin\Debug\RedimensionarImagen.pdb
+C:\Users\KEVIN\source\repos\RedimensionarImagen\RedimensionarImagen\obj\Debug\RedimensionarImagen.csprojAssemblyReference.cache
+C:\Users\KEVIN\source\repos\RedimensionarImagen\RedimensionarImagen\obj\Debug\RedimensionarImagen.Form1.resources
+C:\Users\KEVIN\source\repos\RedimensionarImagen\RedimensionarImagen\obj\Debug\RedimensionarImagen.Properties.Resources.resources
+C:\Users\KEVIN\source\repos\RedimensionarImagen\RedimensionarImagen\obj\Debug\RedimensionarImagen.csproj.GenerateResource.cache
+C:\Users\KEVIN\source\repos\RedimensionarImagen\RedimensionarImagen\obj\Debug\RedimensionarImagen.csproj.CoreCompileInputs.cache
+C:\Users\KEVIN\source\repos\RedimensionarImagen\RedimensionarImagen\obj\Debug\RedimensionarImagen.exe
+C:\Users\KEVIN\source\repos\RedimensionarImagen\RedimensionarImagen\obj\Debug\RedimensionarImagen.pdb
